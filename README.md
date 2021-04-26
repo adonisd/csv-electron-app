@@ -23,5 +23,5 @@ yarn lint
 
 ### Serve Electron
 ```
-yarn electron:serve
+yarn run electron:serve
 ```
